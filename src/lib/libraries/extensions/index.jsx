@@ -621,6 +621,15 @@ const menuItems = [
         featured: true
     },
     {
+        name: 'CATS',
+        extensionId: 'https://penguinmod-extensions-gallery.vercel.app/extensions/Gen1x/CATS.js',
+        iconURL: 'https://snail-ide.github.io/static/assets/77a9f6ae8e434e5955a2a9fb3b0eed49.png',
+        tags: ['penguinmod'],
+        collaborator: 'G1nX',
+        description: "Perfect for cat people, not dog people.",
+        featured: true
+    },
+    {
         name: 'JavaScript',
         extensionId: 'jgJavascript',
         iconURL: jgJavascriptExtensionIcon,
