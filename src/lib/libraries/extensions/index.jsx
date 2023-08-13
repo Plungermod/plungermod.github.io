@@ -373,6 +373,16 @@ const menuItems = [
         twDeveloper: 'LilyMakesThings'
     },
     {
+        name: 'Custom Styles',
+        extensionId: 'https://extensions.turbowarp.org/TheShovel/CustomStyles.js',
+        tags: ['turbowarp'],
+        iconURL: 'https://extensions.turbowarp.org/images/TheShovel/CustomStyles.svg',
+        insetIconURL: turbowarpIcon,
+        description: "Customize the appearance of variable monitors and prompts in your project.",
+        featured: true,
+        twDeveloper: 'TheShovel'
+    },
+    {
         name: 'Multiple Timers',
         extensionId: 'jgTimers',
         iconURL: jgTimersExtensionIcon,

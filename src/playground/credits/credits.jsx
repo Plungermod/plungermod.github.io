@@ -58,7 +58,7 @@ const Credits = () => (
             </h1>
         </header>
         <section>
-            <h1>PenguinMod</h1>
+            <h1>Plungermod</h1>
         </section>
         <section>
             <h2>Thank you</h2>
