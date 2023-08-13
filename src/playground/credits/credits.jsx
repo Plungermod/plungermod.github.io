@@ -63,7 +63,7 @@ const Credits = () => (
         <section>
             <h2>Thank you</h2>
             <p>
-                Without TurboWarp, PenguinMod may have never existed.
+                Without PenguinMod, Plungermod may have never existed.
                 Thank you to everyone who worked on Scratch and TurboWarp,
                 you have made many people finally be able to make whatever they can imagine.
             </p>
