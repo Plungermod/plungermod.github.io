@@ -124,7 +124,9 @@ const pmDevelopers = [
     'jwklong',
     'MaterArc',
     'RedMan13',
-    'showierdata9978'
+    'showierdata9978',
+    'nmsderp',
+    'plungebot',
 ].map(fromHardcodedGithub);
 
 const pmTranslators = [
